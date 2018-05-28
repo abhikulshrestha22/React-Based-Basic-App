@@ -1,0 +1,12 @@
+.messagebox{
+    margin-top:0px;
+    background: rgb(210, 210, 210);
+    padding-top: 20px;
+    padding-bottom:20px;
+}
+
+.messageboxrow{
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: left;
+}

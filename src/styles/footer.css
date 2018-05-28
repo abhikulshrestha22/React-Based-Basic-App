@@ -1,0 +1,15 @@
+.footer > div > h4{
+    color:white;
+}
+
+.footer > div > p{
+    margin:0px;
+}
+
+.footer{
+    padding:20px;
+}
+
+.footer > div{
+    color:rgb(170, 169, 169);
+}

@@ -1,0 +1,48 @@
+
+.profilebox{
+    margin-top: 20px;
+    background: rgb(226, 226, 226);
+}
+
+.padding-top-20{
+    padding-top:20px;
+}
+.main-section{
+border:1px solid #138496;
+background-color: #fff;
+}
+.profile-header{
+padding: 0px;
+height:150px;
+}
+
+.fullheight{
+    height: 100%;
+}
+.user-detail{
+margin:-50px 0px 0px 0px;
+padding-bottom: 20px;
+}
+.user-detail img{
+height:100px;
+width:100px;
+}
+.user-detail h5{
+margin:15px 0px 5px 0px;
+}
+.user-social-detail{
+padding:15px 0px;
+background-color: #17a2b8;
+}
+.user-social-detail a i{
+color:#fff;
+font-size:23px;
+padding: 0px 5px;
+}
+
+.user-detail-inside{
+    text-align: left;
+    padding-top: 20px;
+    
+    
+}

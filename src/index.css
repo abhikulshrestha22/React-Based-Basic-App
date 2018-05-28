@@ -1,0 +1,89 @@
+body,root{
+  background:#343a40;
+  font-family: 'Slabo 27px', serif;
+}
+
+.navbar-brand{
+  
+  
+}
+
+.logo{
+width:40% !important;
+}
+
+.banner{
+  height: 50vh;
+  background:url('./images/k.jpeg') no-repeat ;
+  /* background:#919497; */
+  display: table;
+
+  
+}
+
+.banner-box{
+  display: table;
+  height: 100%;
+}
+
+.banner-text{
+  color: antiquewhite;
+  vertical-align: middle;
+  display: table-cell;
+}
+
+.content-area{
+  padding-top: 20px;
+  background: white;
+}
+
+.quote-span{
+  padding: 10px;
+  display: inline-block;
+  float: right;
+}
+.quote-name{
+float: right;
+}
+
+.lined-text{
+margin-top:40px;
+display: flex;
+flex-direction: row;
+}
+
+.lined-text::before, .lined-text::after{
+  content: "";
+flex: 1 1;
+border-bottom: 1px solid #000;
+margin: auto;
+}
+
+img{
+  width: 100%;
+}
+
+.article-container{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navbar-nav > .active{
+  background:#24282c;
+  border-bottom: 3px solid rgb(26, 207, 147);
+}
+
+.navbar-custom{
+  padding-top: 0px;
+  padding-bottom:0px;
+}
+
+.navbar-brand-custom{
+  padding-top: 0px;
+  padding-bottom:0px;
+}
+
+.nav-item-custom{
+  padding-right: 5px;
+  padding-left: 5px;
+}

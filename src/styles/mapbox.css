@@ -1,0 +1,11 @@
+.mapbox{
+    margin-top:0px;
+    background: rgb(200, 200, 200);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.map-text{
+    padding:10px;
+    padding-bottom: 0px;
+}
